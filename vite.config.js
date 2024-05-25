@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Edusity-React-Projec/",
+  base: "/Edusity-React-Project/",
   plugins: [react()],
 })
